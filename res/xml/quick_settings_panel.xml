@@ -35,7 +35,8 @@
         <CheckBoxPreference
             android:key="floating_window"
             android:title="@string/title_floating_window"
-            android:summary="@string/summary_floating_window" />
+            android:summary="@string/summary_floating_window"
+            android:defaultValue="true" />
 
         <ListPreference
             android:key="quick_pulldown"
