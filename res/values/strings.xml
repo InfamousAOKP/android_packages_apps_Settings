@@ -5128,8 +5128,6 @@
     <string name="settings_splitup_tabsswipe">Tabs + Swipe</string>
 
     <!-- Lockscreen Security Options -->
-    <string name="lock_before_unlock_title">Show slider before secure unlock</string>
-    <string name="lock_before_unlock_summary">Show slider lockscreen before secure unlock mechanism</string>
     <string name="lockscreen_security_grouptitle">Security options</string>
 
     <!-- ListView animation -->
