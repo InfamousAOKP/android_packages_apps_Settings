@@ -73,7 +73,6 @@
     <string name="ribbon_settings_summary">@null</string>
     <string name="app_bar_settings_summary">@null</string>
     <string name="ad_summary">@null</string>
-    <string name="gesture_anywhere_summary">@null</string>
     <string name="screen_state_toggles_summary">@null</string>
     <string name="wakelock_blocker_header_summary">@null</string>
 
