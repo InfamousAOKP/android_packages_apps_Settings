@@ -1518,34 +1518,4 @@
         <item>18000000</item>
     </string-array>
 
-    <string-array name="ad_timeout_entries" translatable="false">
-        <item>@string/ad_timeout_1s</item>
-        <item>@string/ad_timeout_2s</item>
-        <item>@string/ad_timeout_3s</item>
-        <item>@string/ad_timeout_4s</item>
-        <item>@string/ad_timeout_5s</item>
-        <item>@string/ad_timeout_6s</item>
-        <item>@string/ad_timeout_7s</item>
-        <item>@string/ad_timeout_8s</item>
-        <item>@string/ad_timeout_9s</item>
-        <item>@string/ad_timeout_10s</item>
-        <item>@string/ad_timeout_15s</item>
-        <item>@string/ad_timeout_25s</item>
-    </string-array>
-
-    <string-array name="ad_timeout_values" translatable="false">
-        <item>1000</item>
-        <item>2000</item>
-        <item>3000</item>
-        <item>4000</item>
-        <item>5000</item>
-        <item>6000</item>
-        <item>7000</item>
-        <item>8000</item>
-        <item>9000</item>
-        <item>10000</item>
-        <item>15000</item>
-        <item>25000</item>
-    </string-array>
-
 </resources>
