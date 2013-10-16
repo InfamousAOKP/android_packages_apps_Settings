@@ -1972,8 +1972,6 @@
 
         <activity android:name=".chameleonos.AppSidebar" />
 
-        <activity android:name=".chameleonos.ActiveDisplaySettings" />
-
         <!-- AOKP -->
 
         <activity
